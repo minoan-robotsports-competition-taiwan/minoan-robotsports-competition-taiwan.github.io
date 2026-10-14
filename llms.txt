@@ -1,0 +1,44 @@
+# MRC Taiwan（Minoan Robotsports Competition 台灣選拔賽）
+
+> MRC Taiwan 是 Minoan Robotsports Competition（米諾安機器人運動奧林匹克）的台灣選拔賽官方網站，由臺灣智能程式科技教育推廣協會 (SPARK) 主辦。MRC 國際賽由希臘非營利組織 H.E.R.O.（Hellenic Educational Robotics Organization）主辦，全球總決賽 MINOAN ROBOTSPORTS COMPETITION GLOBAL OLYMPIAD 2027 預定 2027-04-23 至 2027-04-26 於希臘克里特島 Chania 舉行。
+
+## 賽事概要
+- 組別：國小組、國高中組、大專院校組、成人／公開組
+- 項目：30 餘項，包含相撲類、競速與障礙類、球類與專項、女子限定組 (GIRLING)、創新展覽賽 (EXHIBITION)
+
+## 主要頁面
+- [MRC Taiwan 官方網站](https://minoan-robotsports-competition-taiwan.github.io/)：賽事介紹、項目、常見問題
+- [賽程](https://minoan-robotsports-competition-taiwan.github.io/schedule.html)
+- [主辦單位：臺灣智能程式科技教育推廣協會](https://spark-taiwan-association.github.io/)
+- [H.E.R.O. MRC 國際官網](https://www.he-ro.gr/minoan-robotsports-competition)
+
+## 各項目中文規則
+- [BOWLING (機器人保齡球)](https://minoan-robotsports-competition-taiwan.github.io/rules/bowling.html)
+- [CAGE WRESTLING](https://minoan-robotsports-competition-taiwan.github.io/rules/cage-wrestling.html)
+- [DRONE SOCCER (無人機足球)](https://minoan-robotsports-competition-taiwan.github.io/rules/drone-soccer.html)
+- [GIRLING (女子限定組)](https://minoan-robotsports-competition-taiwan.github.io/rules/girling.html)
+- [HOCKEY (機器人曲棍球)](https://minoan-robotsports-competition-taiwan.github.io/rules/hockey.html)
+- [MARATHON TURBO (極速馬拉松)](https://minoan-robotsports-competition-taiwan.github.io/rules/marathon-turbo.html)
+- [MRC ARCHERY (射箭挑戰)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-archery.html)
+- [MRC DRONES (無人機挑戰)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-drones.html)
+- [MRC EXHIBITION (創新展覽)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-exhibition.html)
+- [MRC HUMANOID WRESTLING (人形機器人摔角)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-humanoid-wrestling.html)
+- [MRC MARATHON (競速馬拉松賽事)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-marathon.html)
+- [MRC MEGA WRESTLING (巨型相撲)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-mega-wrestling.html)
+- [MRC MICRO WRESTLING (微型相撲)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-micro-wrestling.html)
+- [MRC MINI WRESTLING (迷你相撲)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-mini-wrestling.html)
+- [MRC MOUNTAIN BIKE (登山車賽事)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-mountain-bike.html)
+- [MRC NANO WRESTLING (奈米相撲)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-nano-wrestling.html)
+- [MRC OBSTACLE RACE HUMANOID (人形機器人障礙賽)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-obstacle-race-humanoid.html)
+- [MRC OBSTACLE RACE (障礙賽跑)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-obstacle-race.html)
+- [MRC RALLY (拉力賽)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-rally.html)
+- [MRC RELAY RACE (接力賽跑)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-relay-race.html)
+- [MRC ROWING (划船賽事)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-rowing.html)
+- [MRC SHOOTING (射擊競賽)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-shooting.html)
+- [MRC SHOTPUT (鉛球賽事)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-shotput.html)
+- [MRC SOCCER (機器人足球賽)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-soccer.html)
+- [MRC WEIGHTLIFTING HUMANOID (人形機器人舉重)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-weightlifting-humanoid.html)
+- [PENTATHLON (五項全能)](https://minoan-robotsports-competition-taiwan.github.io/rules/pentathlon.html)
+- [WATER POLO (水球競賽)](https://minoan-robotsports-competition-taiwan.github.io/rules/water-polo.html)
+- [WEIGHT LIFTING DIY ROBOTS (自製機器人舉重)](https://minoan-robotsports-competition-taiwan.github.io/rules/weight-lifting-diy-robots.html)
+- [WRESTLING 1KG (1公斤級相撲)](https://minoan-robotsports-competition-taiwan.github.io/rules/wrestling-1kg.html)
