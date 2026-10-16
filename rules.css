@@ -1,0 +1,79 @@
+/* MRC 規則頁共用樣式（2026-10-16 改版）：與首頁同一套紅金色票；內文排版沿用各頁既有 HTML，只換外觀。 */
+:root{
+  --bg:#ffffff; --soft:#faf6f0; --ink:#1f1a17; --muted:#5f5650; --line:#e7ddd0;
+  --red:#8c1c1c; --red-d:#6e1414; --gold:#b8862b; --gold-ink:#7a5718; --sea:#0f5f86;
+  --sans:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif; --latin:"Cinzel",Georgia,serif;
+  --r:14px;
+  /* 舊內文 inline style 參照的變數 */
+  --primary-color:#8c1c1c; --text-dark:#1f1a17; --section-bg:#faf6f0; --border-color:#e7ddd0;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:72px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+body{margin:0;background:var(--soft);color:var(--ink);font:400 1rem/1.8 var(--sans);-webkit-font-smoothing:antialiased}
+img{max-width:100%;height:auto}
+a{color:var(--sea)}
+a:focus-visible,button:focus-visible{outline:3px solid var(--gold);outline-offset:3px;border-radius:6px}
+.skip{position:absolute;left:-999px;top:8px;background:#fff;padding:8px 12px;z-index:100}.skip:focus{left:8px}
+
+.top{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);border-bottom:2px solid var(--red)}
+.top .in{max-width:62rem;margin:0 auto;padding-inline:20px;display:flex;align-items:center;gap:12px;min-height:64px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--red);min-height:44px}
+.brand img{width:44px;height:44px;border-radius:50%}
+.brand b{font:700 1.05rem/1.1 var(--latin);letter-spacing:.06em}
+.top nav{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+.top nav a{display:inline-flex;align-items:center;min-height:44px;padding:0 12px;border-radius:8px;text-decoration:none;color:var(--ink);font-weight:500}
+.top nav a:hover{background:var(--soft)}
+.top nav a.ext{color:var(--red);font-weight:700}
+@media (max-width:640px){.brand b{display:none}.top nav a{padding:0 10px;font-size:.95rem}}
+
+/* 內文容器 */
+.rules-container{max-width:62rem;margin:24px auto 0;background:#fff;border:1px solid var(--line);border-top:5px solid var(--red);border-radius:var(--r);padding:clamp(20px,4vw,44px)}
+.rules-container h1{color:var(--red);font-size:clamp(1.5rem,3.6vw,2.2rem);line-height:1.3;margin:0 0 16px;text-wrap:balance}
+.rules-container h2{color:var(--red);font-size:clamp(1.25rem,2.6vw,1.6rem);line-height:1.35;margin:40px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+.rules-container h3{color:var(--red-d);font-size:1.2rem;margin:30px 0 10px}
+.rules-container h4{font-size:1.05rem;margin:24px 0 8px}
+.rules-container p{margin:0 0 14px}
+.rules-container ul,.rules-container ol{padding-left:1.5em;margin:0 0 16px}
+.rules-container li{margin-bottom:6px}
+.original-link{display:inline-flex;align-items:center;min-height:44px;margin:0 0 24px;padding:0 16px;border:1px solid var(--line);border-radius:10px;background:var(--soft);font-weight:700;color:var(--red);text-decoration:none}
+.original-link:hover{border-color:var(--red)}
+.translated-content{font-size:1.05rem;line-height:1.85}
+.translated-content > h1:first-of-type{margin-top:12px}
+.rules-container table{width:100%;border-collapse:collapse;margin:0 0 18px;font-size:.95rem;display:block;overflow-x:auto}
+.rules-container th,.rules-container td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+.rules-container th{background:var(--soft)}
+.rules-container iframe{width:100%;max-width:560px;aspect-ratio:16/9;height:auto;border:0;border-radius:10px}
+.raw-content{font-family:ui-monospace,Consolas,monospace;background:var(--soft);padding:16px;color:var(--muted);white-space:pre-wrap;font-size:.9rem;border-radius:8px;border:1px solid var(--line);max-height:400px;overflow-y:auto}
+
+footer.site{max-width:62rem;margin:0 auto;padding:24px 20px 96px;font-size:.9rem;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 24px;justify-content:space-between;align-items:center}
+footer.site a{color:var(--muted);display:inline-flex;align-items:center;min-height:44px}
+.dock{position:fixed;left:0;right:0;bottom:0;z-index:60;display:none;gap:10px;padding:10px 16px calc(10px + env(safe-area-inset-bottom,0px));background:rgba(255,255,255,.97);border-top:1px solid var(--line)}
+.dock a{flex:1;display:inline-flex;align-items:center;justify-content:center;min-height:48px;border-radius:10px;font-weight:700;text-decoration:none;border:2px solid var(--red)}
+.dock a.p{background:var(--red);color:#fff}
+.dock a.g{background:#fff;color:var(--red)}
+@media (max-width:900px){.dock{display:flex}}
+@media (min-width:901px){footer.site{padding-bottom:24px}}
+
+/* 時間表、隱私權頁 */
+.page{max-width:62rem;margin:24px auto 0;background:#fff;border:1px solid var(--line);border-top:5px solid var(--red);border-radius:var(--r);padding:clamp(20px,4vw,44px)}
+.page h1{color:var(--red);font-size:clamp(1.5rem,3.6vw,2.2rem);line-height:1.3;margin:0 0 12px}
+.page h2{color:var(--red);font-size:1.25rem;margin:28px 0 10px}
+.page p,.page li{color:var(--ink)}
+.page .lead{color:var(--muted)}
+.slots{display:grid;border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-top:16px}
+.slot{display:grid;grid-template-columns:8.5rem 1fr;gap:12px;padding:12px 16px;border-top:1px solid var(--line)}
+.slot:first-child{border-top:0}
+.slot .t{font-weight:700;font-variant-numeric:tabular-nums;color:var(--red)}
+.slot small{display:block;color:var(--muted)}
+@media (max-width:520px){.slot{grid-template-columns:1fr;gap:2px}}
+@media print{.top,.dock,footer.site{display:none}.rules-container,.page{border:0;margin:0}}
+
+/* 舊內文的藍色下載按鈕統一改紅 */
+.rules-container a[style*="#007bff"]{background:var(--red)!important;min-height:44px;display:inline-flex!important;align-items:center;box-shadow:none!important}
+.rules-container a[style*="#007bff"]:hover{background:var(--red-d)!important}
+
+/* 手機留邊；開頭的項目圖示縮小，不要佔滿一整屏 */
+@media (max-width:1040px){.rules-container,.page{margin-inline:12px}}
+.rules-container > div:first-child{margin:0 0 16px!important;text-align:left!important}
+.rules-container > div:first-child img{max-width:150px!important;margin:0!important;box-shadow:none!important}
