@@ -4,7 +4,7 @@
 
 ## 賽事概要
 - 組別：國小組、國高中組、大專院校組、成人／公開組
-- 項目：30 餘項，包含相撲類、競速與障礙類、球類與專項、女子限定組 (GIRLING)、創新展覽賽 (EXHIBITION)
+- 項目：30 餘項，包含相撲類、競速與障礙類、球類與專項、女子限定組 (GIRLING)、創新展覽賽 (EUREKA，原 EXHIBITION)；2027 年新增無人機籃球、人形機器人競速
 
 ## 主要頁面
 - [MRC Taiwan 官方網站](https://minoan-robotsports-competition-taiwan.github.io/)：賽事介紹、項目、常見問題
@@ -15,13 +15,15 @@
 ## 各項目中文規則
 - [BOWLING (機器人保齡球)](https://minoan-robotsports-competition-taiwan.github.io/rules/bowling.html)
 - [CAGE WRESTLING](https://minoan-robotsports-competition-taiwan.github.io/rules/cage-wrestling.html)
+- [DRONE BASKET (無人機籃球)](https://minoan-robotsports-competition-taiwan.github.io/rules/drone-basket.html)
 - [DRONE SOCCER (無人機足球)](https://minoan-robotsports-competition-taiwan.github.io/rules/drone-soccer.html)
 - [GIRLING (女子限定組)](https://minoan-robotsports-competition-taiwan.github.io/rules/girling.html)
 - [HOCKEY (機器人曲棍球)](https://minoan-robotsports-competition-taiwan.github.io/rules/hockey.html)
+- [HUMANOID RACE (人形機器人競速)](https://minoan-robotsports-competition-taiwan.github.io/rules/humanoid-race.html)
 - [MARATHON TURBO (極速馬拉松)](https://minoan-robotsports-competition-taiwan.github.io/rules/marathon-turbo.html)
 - [MRC ARCHERY (射箭挑戰)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-archery.html)
 - [MRC DRONES (無人機挑戰)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-drones.html)
-- [MRC EXHIBITION (創新展覽)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-exhibition.html)
+- [EUREKA (創新展覽賽，原 EXHIBITION)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-exhibition.html)
 - [MRC HUMANOID WRESTLING (人形機器人摔角)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-humanoid-wrestling.html)
 - [MRC MARATHON (競速馬拉松賽事)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-marathon.html)
 - [MRC MEGA WRESTLING (巨型相撲)](https://minoan-robotsports-competition-taiwan.github.io/rules/mrc-mega-wrestling.html)
