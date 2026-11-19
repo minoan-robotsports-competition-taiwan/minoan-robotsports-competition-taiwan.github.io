@@ -17,7 +17,7 @@
 - [CAGE WRESTLING](https://minoan-robotsports-competition-taiwan.github.io/rules/cage-wrestling.html)
 - [DRONE BASKET (無人機籃球)](https://minoan-robotsports-competition-taiwan.github.io/rules/drone-basket.html)
 - [DRONE SOCCER (無人機足球)](https://minoan-robotsports-competition-taiwan.github.io/rules/drone-soccer.html)
-- [GIRLING (女子冰壺)](https://minoan-robotsports-competition-taiwan.github.io/rules/girling.html)
+- [GIRLING (女子冰壺)](https://minoan-robotsports-competition-taiwan.github.io/rules/girling.html)：模擬冰壺運動，只限女生隊伍參加
 - [HOCKEY (機器人曲棍球)](https://minoan-robotsports-competition-taiwan.github.io/rules/hockey.html)
 - [HUMANOID RACE (人形機器人競速)](https://minoan-robotsports-competition-taiwan.github.io/rules/humanoid-race.html)
 - [MARATHON TURBO (極速馬拉松)](https://minoan-robotsports-competition-taiwan.github.io/rules/marathon-turbo.html)
