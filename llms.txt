@@ -1,6 +1,6 @@
 # MRC Taiwan（Minoan Robotsports Competition 台灣選拔賽）
 
-> MRC Taiwan 是 Minoan Robotsports Competition（米諾安機器人運動奧林匹克）的台灣選拔賽官方網站，由臺灣智能程式科技教育推廣協會 (SPARK) 主辦。MRC 國際賽由希臘非營利組織 H.E.R.O.（Hellenic Educational Robotics Organization）主辦，全球總決賽 MINOAN ROBOTSPORTS COMPETITION GLOBAL OLYMPIAD 2027 預定 2027-04-23 至 2027-04-26 於希臘克里特島 Chania 舉行。
+> MRC Taiwan 是 Minoan Robotsports Competition（米諾安機器人運動奧林匹克）的台灣選拔賽官方網站，由臺灣智能程式科技教育推廣協會 (SPARK) 主辦。MRC 國際賽由希臘非營利組織 H.E.R.O.（Hellenic Educational Robotics Organization）主辦，全球總決賽 MINOAN ROBOTSPORTS COMPETITION GLOBAL OLYMPIAD 2027 預定 2027-04-23 至 2027-04-26 於希臘克里特島伊拉克利翁（Heraklion）International Exhibition Center of Crete 舉行（2026-11-18 主辦單位公告由干尼亞改到伊拉克利翁）。
 
 ## 賽事概要
 - 組別：國小組、國高中組、大專院校組、成人／公開組
